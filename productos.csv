@@ -1,0 +1,16 @@
+producto_id,nombre_producto,categoria,precio_venta_actual
+P01,Pie de limón,Tortas,10000
+P02,Pie de maracuyá,Tortas,12000
+P03,Torta tres leches,Tortas,20000
+P04,Torta amor,Tortas,20000
+P05,Torta chocolate,Tortas,19000
+P06,Cheesecake frambuesa,Tortas,18000
+P07,Kuchen de durazno,Kuchen,15000
+P08,Kuchen nuez,Kuchen,16000
+P09,Magdalenas (12 un),Repostería,9000
+P10,Alfajores (6 un),Repostería,8000
+P11,Galletas con chocolate,Galletas,6000
+P12,Galletas glaseadas,Galletas,7500
+P13,Brownies (6 un),Repostería,9000
+P14,Bombones,Chocolatería,7000
+P15,Barras de chocolate,Chocolatería,6500

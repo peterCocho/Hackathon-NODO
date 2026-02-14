@@ -18,7 +18,7 @@ with st.sidebar:
     uploaded_file = st.file_uploader("Sube el reporte de la Pyme (CSV/Excel)", type=["csv", "xlsx"])
     
     st.divider()
-    st.info("Rol: Visualización (Pedro - Cúcuta, SENA)")
+    st.info("Visualización de datos")
 
 # 3. Lógica de Negocio Principal
 if uploaded_file is not None:

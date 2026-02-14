@@ -1,0 +1,22 @@
+insumo_id,nombre_insumo,unidad,costo_unitario
+I01,Harina,gr,02/01/2026
+I02,Azúcar,gr,1.0
+I03,Mantequilla,gr,13.0
+I04,Huevos,unidad,320.0
+I05,Leche condensada,gr,03/04/2026
+I06,Limón,ml,3.0
+I07,Pulpa de maracuyá,gr,5.0
+I08,Queso crema,gr,05/06/2026
+I09,Cacao en polvo,gr,4.0
+I10,Chocolate cobertura,gr,18.0
+I11,Crema,ml,05/03/2026
+I12,Leche evaporada,ml,05/02/2026
+I13,Manjar,gr,08/04/2026
+I14,Frambuesa,gr,7.0
+I15,Aceite vegetal,ml,08/01/2026
+I16,Polvo de hornear,gr,2.0
+I17,Maicena,gr,05/01/2026
+I18,Azúcar flor,gr,02/01/2026
+I19,Chips de chocolate,gr,15.0
+I20,Colorantes,gr,8.0
+I21,Rellenos (frutos secos / crema),gr,10.0
